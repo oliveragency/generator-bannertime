@@ -11,6 +11,7 @@ The goal of this project is to streamline banner builds and standardise workflow
 
 The generator sets up the project scaffolding for you so that you can focus on the fun stuff.
 
+Oliver agency
 
 # Quick Start
 
