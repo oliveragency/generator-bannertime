@@ -1,4 +1,4 @@
-# ![Logo](generators/app/templates/src/base/images/logo.png)
+# ![Logo](generators/app/templates/src/base/images/logo.jpg)
 
 [![Build Status](https://travis-ci.org/bannertime/generator-bannertime.svg?branch=master)](https://travis-ci.org/bannertime/generator-bannertime)
 [![npm version](http://img.shields.io/npm/v/generator-bannertime.svg?style=flat)](https://npmjs.org/package/generator-bannertime "View this project on npm")
