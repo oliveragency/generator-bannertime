@@ -18,7 +18,8 @@ module.exports = function prompts() {
     type: 'input',
     name: 'bannerDesc',
     message: 'Describe the banner:',
-    default: 'Its Duncan Bannertime!'
+    default: 'Its Bannertime!'
+  }, {
   }, {
     type: 'list',
     name: 'bannerType',
@@ -29,7 +30,7 @@ module.exports = function prompts() {
     type: 'input',
     name: 'bannerRepo',
     message: 'What is the link to the repository?',
-    default: 'https://github.com/bannertime/generator-bannertime'
+    default: 'https://github.com/oliveragency/generator-bannertime'
   }, {
     when: response => response.bannerType === 'DoubleClick Studio',
     type: 'confirm',
